@@ -1,2 +1,3 @@
-# Lingocell
-Implementation of Lingocell
+# LingoCell
+
+Coming soon.
